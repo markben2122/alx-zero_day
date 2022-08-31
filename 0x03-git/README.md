@@ -1,1 +1,1 @@
-for informations
+for documentation
